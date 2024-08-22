@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kalebted/LeetCode/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/kalebted/LeetCode/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/kalebted/LeetCode/tree/master/0621-task-scheduler) |
+## String
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/kalebted/LeetCode/tree/master/0394-decode-string) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/kalebted/LeetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
