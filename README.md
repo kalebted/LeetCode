@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kalebted/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalebted/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0561-array-partition](https://github.com/kalebted/LeetCode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/kalebted/LeetCode/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/kalebted/LeetCode/tree/master/0883-car-fleet) |
 | [1325-path-with-maximum-probability](https://github.com/kalebted/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/kalebted/LeetCode/tree/master/0402-remove-k-digits) |
+| [0561-array-partition](https://github.com/kalebted/LeetCode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/kalebted/LeetCode/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kalebted/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/kalebted/LeetCode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/kalebted/LeetCode/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/kalebted/LeetCode/tree/master/0883-car-fleet) |
 ## Heap (Priority Queue)
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kalebted/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/kalebted/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
