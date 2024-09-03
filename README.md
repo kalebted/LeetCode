@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kalebted/LeetCode/tree/master/0013-roman-to-integer) |
 | [0394-decode-string](https://github.com/kalebted/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/kalebted/LeetCode/tree/master/0402-remove-k-digits) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/kalebted/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Stack
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kalebted/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/kalebted/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kalebted/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
 |  |
