@@ -105,10 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kalebted/LeetCode/tree/master/0100-same-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kalebted/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kalebted/LeetCode/tree/master/0100-same-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kalebted/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kalebted/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/kalebted/LeetCode/tree/master/2035-count-sub-islands) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kalebted/LeetCode/tree/master/0100-same-tree) |
 | [2035-count-sub-islands](https://github.com/kalebted/LeetCode/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/kalebted/LeetCode/tree/master/0561-array-partition) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kalebted/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
