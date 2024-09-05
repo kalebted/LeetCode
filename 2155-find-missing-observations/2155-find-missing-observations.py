@@ -1,18 +1,23 @@
 class Solution:
     def missingRolls(self, rolls: List[int], mean: int, n: int) -> List[int]:
         m = len(rolls)
-        total_sum = mean * (m + n)
-        missing_sum = total_sum - sum(rolls)
+        total_m = sum(rolls)
 
-        if missing_sum > 6 * n or missing_sum < n:
+        # mean = total / (m + n)
+        # mean * (m + n) = total_m + total_n
+
+        total_n = mean * (m + n) - total_m
+
+        if not (n <= total_n <= n * 6):
             return []
 
-        res = []
+        needed = total_n
+        ans = [1] * n
+        needed -= n
 
-        while n:
-            dice = min(6, missing_sum - n + 1)
-            res.append(dice)
-            missing_sum -= dice
-            n -= 1
+        for i in range(n):
+            delta = min(5, needed)
+            ans[i] += delta
+            needed -= delta
 
-        return res
+        return ans
