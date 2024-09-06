@@ -9,12 +9,12 @@ class Solution:
         dummy = ListNode(0, head)
 
         prev = dummy
-        cur = head
+        # cur = head
 
-        while cur:
-            if cur.val in nums:
-                prev.next = cur.next
+        while prev.next:
+            if prev.next.val in nums:
+                prev.next = prev.next.next
             else:
                 prev = prev.next
-            cur = cur.next
+            # prev.next = prev.next.next
         return dummy.next
