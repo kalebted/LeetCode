@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kalebted/LeetCode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/kalebted/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0139-word-break](https://github.com/kalebted/LeetCode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalebted/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kalebted/LeetCode/tree/master/0054-spiral-matrix) |
 | [2035-count-sub-islands](https://github.com/kalebted/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kalebted/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Monotonic Stack
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kalebted/LeetCode/tree/master/0054-spiral-matrix) |
 | [0906-walking-robot-simulation](https://github.com/kalebted/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kalebted/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kalebted/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
