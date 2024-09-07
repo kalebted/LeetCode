@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kalebted/LeetCode/tree/master/0002-add-two-numbers) |
+| [1484-linked-list-in-binary-tree](https://github.com/kalebted/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kalebted/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kalebted/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kalebted/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kalebted/LeetCode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kalebted/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kalebted/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/kalebted/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/kalebted/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kalebted/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kalebted/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1484-linked-list-in-binary-tree](https://github.com/kalebted/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/kalebted/LeetCode/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/kalebted/LeetCode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kalebted/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [1484-linked-list-in-binary-tree](https://github.com/kalebted/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/kalebted/LeetCode/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/kalebted/LeetCode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kalebted/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [1484-linked-list-in-binary-tree](https://github.com/kalebted/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Trie
 |  |
 | ------- |
