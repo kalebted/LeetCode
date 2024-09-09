@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/kalebted/LeetCode/tree/master/0883-car-fleet) |
 | [0906-walking-robot-simulation](https://github.com/kalebted/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0958-sort-array-by-parity-ii](https://github.com/kalebted/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1036-rotting-oranges](https://github.com/kalebted/LeetCode/tree/master/1036-rotting-oranges) |
 | [1325-path-with-maximum-probability](https://github.com/kalebted/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kalebted/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kalebted/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/kalebted/LeetCode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kalebted/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [1036-rotting-oranges](https://github.com/kalebted/LeetCode/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/kalebted/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/kalebted/LeetCode/tree/master/2035-count-sub-islands) |
 ## Union Find
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kalebted/LeetCode/tree/master/0054-spiral-matrix) |
+| [1036-rotting-oranges](https://github.com/kalebted/LeetCode/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/kalebted/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kalebted/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/kalebted/LeetCode/tree/master/2411-spiral-matrix-iv) |
