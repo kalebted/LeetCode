@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kalebted/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/kalebted/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kalebted/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/kalebted/LeetCode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/kalebted/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kalebted/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/kalebted/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalebted/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0958-sort-array-by-parity-ii](https://github.com/kalebted/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kalebted/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/kalebted/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/kalebted/LeetCode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/kalebted/LeetCode/tree/master/0621-task-scheduler) |
