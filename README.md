@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/kalebted/LeetCode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kalebted/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/kalebted/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kalebted/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/kalebted/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/kalebted/LeetCode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kalebted/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/kalebted/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/kalebted/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Trie
 |  |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kalebted/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/kalebted/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
