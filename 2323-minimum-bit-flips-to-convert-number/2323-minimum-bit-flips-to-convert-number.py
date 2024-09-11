@@ -4,8 +4,10 @@ class Solution:
 
             n = start ^ goal
             while n:
-                res += n & 1
-                n = n >> 1
+                # res += n & 1
+                # n = n >> 1
+                n = n & (n - 1)
+                res += 1
 
             # while start or goal:
             #     if (start & 1) != (goal & 1):
