@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/kalebted/LeetCode/tree/master/0139-word-break) |
 | [0394-decode-string](https://github.com/kalebted/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/kalebted/LeetCode/tree/master/0402-remove-k-digits) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kalebted/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kalebted/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kalebted/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Stack
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalebted/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kalebted/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kalebted/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
