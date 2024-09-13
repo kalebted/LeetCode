@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kalebted/LeetCode/tree/master/0198-house-robber) |
 | [0561-array-partition](https://github.com/kalebted/LeetCode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/kalebted/LeetCode/tree/master/0621-task-scheduler) |
+| [0792-binary-search](https://github.com/kalebted/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/kalebted/LeetCode/tree/master/0883-car-fleet) |
 | [0906-walking-robot-simulation](https://github.com/kalebted/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0958-sort-array-by-parity-ii](https://github.com/kalebted/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kalebted/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kalebted/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalebted/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/kalebted/LeetCode/tree/master/0792-binary-search) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kalebted/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Linked List
 |  |
