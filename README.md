@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/kalebted/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1036-rotting-oranges](https://github.com/kalebted/LeetCode/tree/master/1036-rotting-oranges) |
 | [1325-path-with-maximum-probability](https://github.com/kalebted/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1435-xor-queries-of-a-subarray](https://github.com/kalebted/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kalebted/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kalebted/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kalebted/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kalebted/LeetCode/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/kalebted/LeetCode/tree/master/0190-reverse-bits) |
 | [0371-sum-of-two-integers](https://github.com/kalebted/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [1435-xor-queries-of-a-subarray](https://github.com/kalebted/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kalebted/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kalebted/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Hash Table
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/kalebted/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kalebted/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Counting Sort
 |  |
