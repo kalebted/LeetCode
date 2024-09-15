@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/kalebted/LeetCode/tree/master/0190-reverse-bits) |
 | [0371-sum-of-two-integers](https://github.com/kalebted/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/kalebted/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kalebted/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kalebted/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kalebted/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kalebted/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kalebted/LeetCode/tree/master/0621-task-scheduler) |
 | [0906-walking-robot-simulation](https://github.com/kalebted/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kalebted/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kalebted/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kalebted/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kalebted/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kalebted/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/kalebted/LeetCode/tree/master/0139-word-break) |
 | [0394-decode-string](https://github.com/kalebted/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/kalebted/LeetCode/tree/master/0402-remove-k-digits) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kalebted/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kalebted/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kalebted/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kalebted/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/kalebted/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kalebted/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kalebted/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Counting Sort
 |  |
