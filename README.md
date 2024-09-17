@@ -279,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kalebted/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/kalebted/LeetCode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
