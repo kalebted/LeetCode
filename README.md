@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kalebted/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kalebted/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kalebted/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/kalebted/LeetCode/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/kalebted/LeetCode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/kalebted/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0139-word-break](https://github.com/kalebted/LeetCode/tree/master/0139-word-break) |
@@ -286,5 +287,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/kalebted/LeetCode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/kalebted/LeetCode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
