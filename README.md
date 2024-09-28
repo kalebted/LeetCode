@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/kalebted/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/kalebted/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/kalebted/LeetCode/tree/master/0792-binary-search) |
+| [0859-design-circular-deque](https://github.com/kalebted/LeetCode/tree/master/0859-design-circular-deque) |
 | [0883-car-fleet](https://github.com/kalebted/LeetCode/tree/master/0883-car-fleet) |
 | [0906-walking-robot-simulation](https://github.com/kalebted/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0958-sort-array-by-parity-ii](https://github.com/kalebted/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kalebted/LeetCode/tree/master/0002-add-two-numbers) |
 | [0725-split-linked-list-in-parts](https://github.com/kalebted/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/kalebted/LeetCode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/kalebted/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kalebted/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kalebted/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/kalebted/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kalebted/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/kalebted/LeetCode/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
@@ -348,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/kalebted/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kalebted/LeetCode/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/kalebted/LeetCode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
