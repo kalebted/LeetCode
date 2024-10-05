@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/kalebted/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0371-sum-of-two-integers](https://github.com/kalebted/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0539-minimum-time-difference](https://github.com/kalebted/LeetCode/tree/master/0539-minimum-time-difference) |
+| [1236-n-th-tribonacci-number](https://github.com/kalebted/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2155-find-missing-observations](https://github.com/kalebted/LeetCode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kalebted/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/kalebted/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/kalebted/LeetCode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kalebted/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1236-n-th-tribonacci-number](https://github.com/kalebted/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kalebted/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2755-extra-characters-in-a-string](https://github.com/kalebted/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Sliding Window
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/kalebted/LeetCode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kalebted/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1236-n-th-tribonacci-number](https://github.com/kalebted/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Number Theory
 |  |
 | ------- |
