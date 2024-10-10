@@ -3,7 +3,7 @@ class Solution:
         close, maxClose = 0, 0
 
         for c in s:
-            if c == "[":
+            if c ==  "[":
                 close -= 1
             else:
                 close += 1
