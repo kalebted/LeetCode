@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/kalebted/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/kalebted/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/kalebted/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kalebted/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/kalebted/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kalebted/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/kalebted/LeetCode/tree/master/0739-daily-temperatures) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/kalebted/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/kalebted/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/kalebted/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kalebted/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0906-walking-robot-simulation](https://github.com/kalebted/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kalebted/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kalebted/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/kalebted/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/kalebted/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/kalebted/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kalebted/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kalebted/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kalebted/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kalebted/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/kalebted/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/kalebted/LeetCode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/kalebted/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kalebted/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0883-car-fleet](https://github.com/kalebted/LeetCode/tree/master/0883-car-fleet) |
 | [0958-sort-array-by-parity-ii](https://github.com/kalebted/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kalebted/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/kalebted/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kalebted/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1325-path-with-maximum-probability](https://github.com/kalebted/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kalebted/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kalebted/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -313,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalebted/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/kalebted/LeetCode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kalebted/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kalebted/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kalebted/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
